@@ -2,7 +2,7 @@
 
 Search for a book using the Google Books API. Implemented with React.js and ES6.
 
-![Alt Text](https://github.com/mendezwin/bookfinder/raw/master/hp.PNG)
+![Alt Text](https://github.com/mendezwin/bookfinder/raw/master/hp-min.PNG)
 
 
 Inside this directory, you can run several commands:
